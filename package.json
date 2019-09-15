@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-mdbreact",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple starter with MDBReact to get up and developing quickly with Gatsby",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
@@ -15,6 +15,7 @@
     "gatsby-source-filesystem": "^2.1.22",
     "gatsby-transformer-sharp": "^2.2.14",
     "mdbreact": "^4.19.2",
+    "node-sass": "^4.12.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
