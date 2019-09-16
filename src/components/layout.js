@@ -25,9 +25,11 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Navbar siteTitle={data.site.siteMetadata.title} />
-      <main>{children}</main>
-      <Footer />
+      <div className="site">
+        <Navbar siteTitle={data.site.siteMetadata.title} />
+        <main className="site-content">{children}</main>
+        <Footer />
+      </div>
     </>
   )
 }

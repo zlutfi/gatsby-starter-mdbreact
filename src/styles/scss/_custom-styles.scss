@@ -1,1 +1,12 @@
 // Your custom styles
+
+// This makes the footer stick to the bottom of the viewport
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.site-content {
+  flex-grow: 1;
+  overflow: hidden;
+}
