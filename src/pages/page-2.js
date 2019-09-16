@@ -10,7 +10,7 @@ const SecondPage = () => (
     <MDBContainer className="py-5">
       <SEO title="Page two" />
       <h1>Hi from the second page</h1>
-      <p>Welcome to page 2</p>
+      <p className="lead">Welcome to page 2</p>
       <Link to="/">
         <MDBBtn color="primary" outline>
           <MDBIcon icon="caret-left" className="mr-2" />
