@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/zlutfi/gatsby-starter-mdbreact)](https://github.com/zlutfi/gatsby-starter-mdbreact/stargazers)
 [![GitHub license](https://img.shields.io/github/license/zlutfi/gatsby-starter-mdbreact)](https://github.com/zlutfi/gatsby-starter-mdbreact/blob/master/LICENSE)
 
-# Gatsby Starter Material Design Bootstrap React
+# Gatsby Starter MDBReact
 
 This is a barebones Gatsby starter with Material Design Bootstrap React components. Use this starter to get up and running quickly with your next Gatsby project.
 
