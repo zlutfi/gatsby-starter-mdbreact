@@ -11,7 +11,7 @@
     "gatsby-plugin-offline": "3.0.21",
     "gatsby-plugin-react-helmet": "3.1.15",
     "gatsby-plugin-sass": "2.1.23",
-    "gatsby-plugin-sharp": "2.3.0",
+    "gatsby-plugin-sharp": "2.3.1",
     "gatsby-source-filesystem": "2.1.37",
     "gatsby-transformer-sharp": "2.3.5",
     "mdbreact": "4.22.1",
