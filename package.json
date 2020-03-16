@@ -14,7 +14,7 @@
     "gatsby-plugin-sharp": "2.4.12",
     "gatsby-source-filesystem": "2.1.55",
     "gatsby-transformer-sharp": "2.3.18",
-    "mdbreact": "4.25.3",
+    "mdbreact": "4.25.4",
     "node-sass": "4.13.1",
     "prop-types": "15.7.2",
     "react": "16.13.0",
