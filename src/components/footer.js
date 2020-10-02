@@ -8,11 +8,11 @@ const Footer = () => {
         <MDBContainer fluid>
           Made by{" "}
           <a
-            href="https://zlicreative.com"
+            href="https://zlutfi.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            ZLI Creative
+            ZLI
           </a>{" "}
           - Built with{" "}
           <a
