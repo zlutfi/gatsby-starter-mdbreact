@@ -16,7 +16,7 @@
     "gatsby-transformer-sharp": "2.5.2",
     "mdbreact": "4.26.1",
     "node-sass": "4.14.1",
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "5.2.1"
